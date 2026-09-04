@@ -1,0 +1,13 @@
+{
+  "name": "nyashno",
+  "version": "1.0.0",
+  "description": "super puper package",
+  "main": "./src/Nyashno.js",
+  "scripts": {
+    "start": "node ./src/main.js"
+  },
+  "keywords": ["nyashno", "nyashniy package"],
+  "author": "Kateryna Serdiukova",
+  "license": "ISC",
+  "type": "module"
+}
