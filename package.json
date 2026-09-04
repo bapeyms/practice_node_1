@@ -1,6 +1,6 @@
 {
-  "name": "nyashno",
-  "version": "1.0.0",
+  "name": "superpupernyashno",
+  "version": "1.0.2",
   "description": "super puper package",
   "main": "./src/Nyashno.js",
   "scripts": {

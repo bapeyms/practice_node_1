@@ -3,8 +3,6 @@ import Nyashno from "./Nyashno.js"
 
 const value = new Nyashno("hello");
 
-value.isNyashno();
-
-value.getNyashno();
-
-value.makeNyashno("world").inspect();
+console.log(value.isNyashno());
+console.log(value.getNyashno());
+console.log(value.makeNyashno("world").inspect());
