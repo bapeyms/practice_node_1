@@ -1,4 +1,4 @@
-import {Nyashno} from "./Nyashno"
+import Nyashno from "./Nyashno.js"
 
 
 const value = new Nyashno("hello");
